@@ -1,0 +1,3 @@
+Sistema iniciado
+Usuário autenticado
+Processo finalizado
