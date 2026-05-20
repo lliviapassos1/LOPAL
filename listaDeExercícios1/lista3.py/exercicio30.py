@@ -1,4 +1,4 @@
-# 30. SISTEMA COMPLETO 
+# 30. SISTEMA COMPLETO
 produtos = []
 
 
@@ -59,7 +59,7 @@ def ler_arquivo():
 
         arquivo.close()
 
-    except:
+    except ValueError:
         print("Arquivo não encontrado")
 
 
